@@ -1,0 +1,23 @@
+{
+  "name": "graphyteworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzafer/graphyteworks.git"
+  },
+  "author": "Rafay Zafer <rafay.zafer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzafer/graphyteworks/issues"
+  },
+  "homepage": "https://github.com/rzafer/graphyteworks#readme"
+}
